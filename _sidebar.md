@@ -1,6 +1,7 @@
 * [使用](README)
   * [介绍](start/overview)
   * [快速使用](start/quick)
+  * [联屏使用](start/wall)
 * 常见问题
 * 行业解决方案
   * [零售](sln/retail)
