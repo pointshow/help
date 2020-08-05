@@ -1,6 +1,7 @@
 * [使用](README)
   * [介绍](start/overview)
   * [快速使用](start/quick)
+  * [设备管理](start/terminal)
   * [排期使用](start/channel)
   * [联屏使用](start/wall)
 * 常见问题
