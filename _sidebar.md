@@ -4,6 +4,7 @@
   * [设备管理](start/terminal)
   * [排期使用](start/channel)
   * [联屏使用](start/wall)
+  * [第三方应用](start/thirdApp)
 * 常见问题
   * [设备远程操作功能清单](question/controlList)
 * 行业解决方案
