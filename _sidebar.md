@@ -7,6 +7,7 @@
   * [第三方应用](start/thirdApp)
 * 常见问题
   * [设备远程操作功能清单](question/controlList)
+  * [浏览器安装点秀](question/browserInstall)
 * 行业解决方案
   * [零售](sln/retail)
   * [医院](sln/hospital)
