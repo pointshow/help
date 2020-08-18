@@ -27,7 +27,7 @@
             <td>N</td>
         </tr>
         <tr>
-            <td>32J3500</td>
+            <td>43D2060G</td>
             <td>Y</td>
             <td>Y</td>
             <td>Y</td>
