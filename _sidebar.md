@@ -3,7 +3,7 @@
   * [快速使用](start/quick)
   * [设备管理](start/terminal)
   * [排期使用](channel/index)
-	* [快速使用](channel/quick)
+	* [创建排期](channel/quick)
 	* [排期周期设置](channel/schedule)
 	* [时段设置](channel/timeRange)
 	* [更多功能](channel/more)
