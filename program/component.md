@@ -1,0 +1,13 @@
+### 组件清单
+[图片组件](./component/image)
+[视频组件](./component/video)
+[媒体组件](./component/media)
+[文本组件](./component/text)
+[富文本组件](./component/richText)
+[网址组件](./component/html)
+[HTML组件](./component/h5)
+[音频组件](./component/audio)
+[天气组件](./component/weather)
+[时钟组件](./component/clock)
+[海报组件](./component/poster)
+[流媒体组件](./component/stream)
