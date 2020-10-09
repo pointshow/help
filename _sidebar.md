@@ -5,7 +5,7 @@
     * [组织使用](terminal/organization)
     * [网点使用](terminal/point)
     * [创建设备](terminal/create)
-    * [激活设备](terminal/activation)
+    * [激活设备1](terminal/activation)
     * [设备状态](terminal/status)
     * [编辑设备](terminal/edit)
     * [分组使用](terminal/tag)
