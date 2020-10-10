@@ -34,7 +34,7 @@
   * [海报使用](poster/index)
     * [特效海报](poster/special)
       * [横板模板](poster/across)
-      * [横板模板](poster/erect)
+      * [竖板模板](poster/erect)
     * [自制海报](poster/self)
     * [我的海报](poster/mine)
   * [资源使用](resource/index)
