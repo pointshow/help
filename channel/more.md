@@ -25,7 +25,7 @@
 ④确认复制      
 ⑤保存
 
-![avatar](../images/channel/6.png)
+![avatar](../images/channel/6-1.png)
 
 注意事项：
 1. 所复制的天要设置时段，并添加节目。
