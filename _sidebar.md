@@ -41,6 +41,7 @@
     * [资源管理](resource/resource-1)
     * [资源类型](resource/te)
     * [批量删除](resource/delete)
+  * [终端管理系统](terminal-1/index)
   * [第三方应用](start/thirdApp)
   * [历史版本](start/history)
 * 常见问题
