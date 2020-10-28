@@ -16,7 +16,6 @@
     * [分组使用](terminal/tag)
     * [联屏使用](terminal/wall)
     * [更多功能](terminal/more)
-    * [场景示例](terminal/demo)
   * [节目使用](program/index)
     * [创建节目](program/create)
     * [节目组件](program/component)
