@@ -48,6 +48,7 @@
   * [浏览器安装APP](question/browserInstall)
   * [长虹如何支持终端控制](question/changhongSupportControl)
   * [终端异常码](question/terminal-code)
+  * [小米电视助手安装APP](question/XiaomiTVAssistant)
 * 行业解决方案
   * [零售](sln/retail)
   * [医院](sln/hospital)
