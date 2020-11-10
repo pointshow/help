@@ -15,6 +15,7 @@
     * [编辑设备](terminal/edit)
     * [联屏使用](terminal/wall)
     * [同屏使用](terminal/SAME)
+    * [同屏使用](terminal/details)
     * [更多功能](terminal/more)
   * [节目使用](program/index)
     * [创建节目](program/create)
