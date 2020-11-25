@@ -1,9 +1,7 @@
 ### 激活设备
-在需要发布的设备上，打开点秀APP，输入登录密码，重新刷新页面，设备被激活，设备状态显示已启用。
+在需要发布的设备上，打开点秀APP，输入登录密码，重新刷新页面，设备被激活，设备状态显示在线。
 
-![avatar](../images/terminal/6.png)
-
-![avatar](../images/terminal/6-1.png)
+![avatar](../images/terminal/30.png)
 
 温馨提示：（有两种方式可以输入登录密码）
 
