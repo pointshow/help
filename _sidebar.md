@@ -53,5 +53,6 @@
   * [小米电视助手安装APP](question/XiaomiTVAssistant)
 * 行业解决方案
   * [零售](sln/retail)
+  * [餐饮](sln/catering)
   * [医院](sln/hospital)
-  * [学校](sln/school)
+  * [茶饮连锁](sln/tea)
