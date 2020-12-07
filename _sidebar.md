@@ -16,7 +16,6 @@
     * [联屏使用](terminal/wall)
     * [同屏使用](terminal/same)
     * [设备详情](terminal/details)
-  * [节目使用](program/index)
   * [创建节目](program/create)
    * [更多功能](program/more)
    * [场景示例](program/demo)
