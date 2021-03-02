@@ -63,6 +63,7 @@
   * [长虹如何支持终端控制](question/changhongSupportControl)
   * [终端异常码](question/terminal-code)
   * [小米电视助手安装APP](question/XiaomiTVAssistant)
+  * [创维电视机安装第三方应用](question/coocaaTV) 
 * 行业解决方案
   * [零售](sln/retail)
   * [餐饮](sln/catering)
